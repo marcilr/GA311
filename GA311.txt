@@ -1,0 +1,52 @@
+GA311.txt
+Created Sun Feb 17 17:33:57 AKST 2008
+by Raymond E. Marcil
+
+
+NETGEAR GA311 Gigabit Adapter 
+with Jumbo Frame support 10/100/1000Mbps PCI 1x RJ45
+
+
+CompUSA was going out of business so I purchased four Netgear GA311 
+10/100/1000 Mbps gigabit ethernet adapters.  The MAC address is off the 
+card.  Like "00184D 72B5E0" from the card that went into malachite.
+
+make:        Netgear
+model:       GA311
+chipset:     RTL8169S-32 (off card)
+standards:   10 Mbps 10BASE-T
+             20 Mbps full-duplex 10BASE-T
+             100 Mbps 100BASE-TX 
+             200 Mbps full-duplex 100BASE-TX
+             1000BASE-T Gigabit Ethernet
+speed:       10/100/1000Mbps
+connectors:  1x RJ45
+interface:   PCI
+bus:         32-bit PCI
+leds:        1000Mbps, 100 Mbps, 10 Mbps, Data
+wake on lan: No
+price:       4x $34.99 - 40% ($14) = $20.99 
+             $83.96 Total
+
+
+MAC: 00:18:4D:72:B5:E0
+TA:  *100-11833-01R5*
+s/n: *1D316C3701EE5*
+
+MAC: 00:18:4D:76:99:B2
+TA:  *100-11833-01R6* 
+s/n: *1D316C3J05111*
+
+MAC: 00:18:4D:79:78:12
+TA:  *100-11833-01R7*
+s/n: *1D31713J039A4*
+
+MAC: 00:18:4D:E9:35:2B
+TA:  *100-11833-01R7*
+s/n: *1D31723A01CDE*
+
+
+Links
+=====
+Netgear GA311 PCI Adapter
+http://support.netgear.com/app/products/model/a_id/2432
