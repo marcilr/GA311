@@ -1,0 +1,16 @@
+links.txt
+Created Tue Dec 13 09:16:19 AKST 2011
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Netgear GA311 links.
+
+
+Links
+=====
+Netgear GA311 PCI Adapter
+http://support.netgear.com/app/products/model/a_id/2432
+
+NETGEAR GA311 Gigabit Adapter 
+with Jumbo Frame support 10/100/1000Mbps PCI 1x RJ45
+http://www.newegg.com/Product/Product.aspx?Item=N82E16833122133&Tpk=ga311
